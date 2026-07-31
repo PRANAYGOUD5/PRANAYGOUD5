@@ -1,33 +1,183 @@
-# 💫 About Me:
-🔭 I’m currently working on AIML ENGINEERING STUDENT<br>👯 @MREC Hyderabad<br>🤝 I'm interested in learning new things <br>🌱JAVA - DSA AI ML SQL <br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:7c3aed&height=260&section=header&text=Pranay%20Goud&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adavaram-pranay-goud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adavarampranaygoud@gmail.com) 
+# Hi 👋 I'm Pranay Goud
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PRANAYGOUD5&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PRANAYGOUD5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PRANAYGOUD5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### AI & Machine Learning Enthusiast • Python Developer • Backend Learner
+
+<img src="https://raw.githubusercontent.com/PRANAYGOUD5/PRANAYGOUD5/main/images/PRANAY.jpeg" width="180" alt="Pranay Goud"/>
+
+<p>
+
+<a href="https://github.com/PRANAYGOUD5">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adavaram-pranay-goud/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/PranayGoud1910/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=PRANAYGOUD5&style=for-the-badge"/>
+
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=PRANAYGOUD5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+# 💫 About Me
 
-<!--
-**PRANAYGOUD5/PRANAYGOUD5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
 
-Here are some ideas to get you started:
+💻 Passionate about AI, Backend Development and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring
+
+- Machine Learning
+- Deep Learning
+- FastAPI
+- Flutter
+- SQL
+- Linux
+- System Design
+
+🚀 My goal is to build impactful AI-powered applications while continuously improving my problem-solving and software engineering skills.
+
+---
+
+# 🚀 Currently Learning
+
+| Domain | Topics |
+|---------|---------|
+| 🤖 AI / ML | Machine Learning, Deep Learning, Computer Vision |
+| ⚙ Backend | FastAPI, REST APIs |
+| 💾 Database | MySQL, SQL |
+| 📱 App Development | Flutter |
+| 🐧 OS | Linux |
+| 📚 CS | DSA, OOP, System Design |
+
+---
+
+# 🛠 Technology Toolkit
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### Backend & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,linux,vscode,flutter"/>
+</p>
+
+---
+
+# ⚡ How I Work
+
+```
+Learn → Build → Test → Improve → Deploy
+
+          ↑
+     Keep Learning
+```
+
+✔ Write clean and readable code
+
+✔ Solve real-world problems
+
+✔ Learn through projects
+
+✔ Keep improving every day
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=PRANAYGOUD5&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAYGOUD5&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PRANAYGOUD5&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRANAYGOUD5&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=PRANAYGOUD5&theme=tokyonight&row=1&margin-w=15)
+
+---
+
+# 🌟 Featured Projects
+
+🔹 AI & Machine Learning Projects
+
+🔹 Flutter Applications
+
+🔹 Python Automation Scripts
+
+🔹 Data Structures & Algorithms
+
+🔹 Backend APIs
+
+---
+
+# 💻 Coding Profiles
+
+<p>
+
+<a href="https://leetcode.com/u/PranayGoud1910/">
+<img src="https://img.shields.io/badge/LeetCode-PranayGoud1910-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/PRANAYGOUD5">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adavaram-pranay-goud/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+*"Keep Learning • Keep Building • Keep Growing"* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:7c3aed&height=120&section=footer"/>
+
+</div>
